@@ -1,0 +1,1 @@
+mosa = int (input ("enter a number "))
